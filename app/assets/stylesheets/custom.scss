@@ -247,3 +247,51 @@ span.picture {
     border: 0;
   }
 }
+
+.signup-menu {
+  margin-left: 12px !important;
+}
+
+.signup-menu a {
+  height: 40px;
+  width: 80px;
+  background-color: #c01c2b;
+  text-align: center;
+  line-height: 40px;
+  font-size: 15px;
+  margin: 5px;
+  display: block;
+  color: #fff !important;
+  transition-property: background;
+  transition-duration: 0.5s;
+  text-transform: capitalize;
+  border-radius: 10px;
+  padding-top: 10px !important;
+}
+
+.signup-menu a:hover {
+  background-color: #DB2A3B;
+}
+
+.about {
+  p {
+    text-align: justify;
+    font-size: 15px;
+  }
+
+  img {
+    float: right;
+    margin: 5px;
+  }
+}
+
+.help_photo {
+  display: block;
+  margin: auto;
+  position: relative;
+}
+
+.home_photo {
+  height: 100%;
+  width: 100%
+}

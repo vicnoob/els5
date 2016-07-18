@@ -1,14 +1,32 @@
 en:
   about: "About"
+  about_para1: "Quite simply, e-learning is electronic learning, and typically this means 
+                using a computer to deliver part, or all of a course whether it's in a school, 
+                part of your mandatory business training or a full distance learning course."
+  about_para2: "In the early days it received a bad press, as many people thought bringing 
+                computers into the classroom would remove that human element that some learners 
+                need, but as time has progressed technology has developed, and now we embrace 
+                smartphones and tablets in the classroom and office, as well as using a wealth 
+                of interactive designs that makes distance learning not only engaging for the 
+                users, but valuable as a lesson delivery medium."
+  about_para3: "Building partnerships with quality training providers, and combining this with 
+                a dedicated experienced technical team and support staff, Virtual College 
+                provides the perfect blended learning environment, offering anyone the chance 
+                to take their online training to the next level."
+  about_title: "What is e-learning?"
   account-create: "Create my account"
   contain-error: "The form contains"
   error: "error"
   flash-signup-success: "Signed-up successfully!"
   hello: "Hello world"
   help: "Help"
+  help_title: "If you need any kind of help or support, please do not hesitate to contact us"
   home: "Home"
+  login: "Login"
   logo: "E-Learning"
   password-confirm: "Confirmation"
-  signup: "Sign up"
   title: "Learn everything started from the bottom"
   user: "Users"
+  signup: "Sign up"
+  slogan: "You can learn everything from the bottom here"
+  welcome: "Welcome to the e-Learning system"
