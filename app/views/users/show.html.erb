@@ -1,11 +1,16 @@
 <% provide(:title, @user.name) %>
+<%= image_tag("profilelogo.png", class: "profile_logo") %>
+<h1 class="show_title"><%= @user.name %><%= t("profile") %></h1>
 <div class="row">
   <aside class="col-md-4">
     <section class="user_info">
-      <h1>
-        <%= @user.name %>
-        <%= @user.email %>
-      </h1>
+      <h4> <%= t("username") %>: <%= @user.name %> </h4>
+      <h4> <%= t("username") %>: <%= @user.email %></h4>
+      <h4> <%= t("registation-time") %>: <%= @user.created_at %>
+      <h4> <%= t("follower") %>: </h4>
+      <h4> <%= t("follow") %>: </h4>
+      <h4> <%= t("complete-lesson") %>: </h4>
+      <h4> <%= t("point") %>: </h4>
     </section>
   </aside>
 </div>
